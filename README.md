@@ -1,7 +1,7 @@
 # Portfólio Online
 Funcionalidades:
  * Mudar para "light mode" e "dark mode"
- * link para o App planner
+ * link para meu Currículo em pdf
  * link para meu Linkedin
  * link para meu perfil no Github
 
